@@ -1,4 +1,4 @@
-__author__ = 'WangChunQian'
+__author__ = 'Kugox'
 import MySQLdb
 db = MySQLdb.connect("localhost","root","050920","python")
 cursor = db.cursor()

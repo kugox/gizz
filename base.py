@@ -1,4 +1,4 @@
-__author__ = 'WangChunQian'
+__author__ = 'Kugox'
 #coding=utf-8
 class Employee:
     empCount = 0

@@ -1,4 +1,4 @@
-__author__ = 'WangChunQian'
+__author__ = 'Kugox'
 import Tkinter
 
 top = Tkinter.Tk()

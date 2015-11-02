@@ -4,7 +4,7 @@ import web
 urls = ('/user', 'user')
 class user:
     def GET(self):
-        return "user!"
+        return "user!" 
 
 
 if __name__ == "__main__":

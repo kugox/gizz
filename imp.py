@@ -1,3 +1,3 @@
-__author__ = 'WangChunQian'
+__author__ = 'Kugox'
 import sys
 print sys.path
