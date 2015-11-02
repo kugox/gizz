@@ -1,7 +1,7 @@
 __author__ = 'Kugox'
 #coding=utf-8
 class Employee:
-    empCount = 0
+    empCount = 1
 
     def __init__(self, name, salary):
         self.name = name
